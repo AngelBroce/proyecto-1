@@ -1,0 +1,13 @@
+{
+  "name": "techvision-local",
+  "version": "1.0.0",
+  "description": "TechVision local project",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./css/styles.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/container-queries": "^0.1.1"
+  }
+}

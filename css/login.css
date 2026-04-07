@@ -1,0 +1,11 @@
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.editorial-gradient {
+    background: linear-gradient(135deg, #451ebb 0%, #5d3fd3 100%);
+}
+
+.soft-elevation {
+    box-shadow: 0 40px 60px -20px rgba(19, 27, 46, 0.05);
+}
